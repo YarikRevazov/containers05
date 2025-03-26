@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  Лабораторная работа №5  
 ## Запуск сайта в контейнере
 
@@ -270,3 +271,6 @@ http://localhost:8000
  [http://localhost:8000/wordpress](http://localhost:8000/wordpress)
 
 ---
+=======
+ 
+>>>>>>> master
