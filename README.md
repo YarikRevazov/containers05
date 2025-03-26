@@ -70,7 +70,7 @@ VOLUME /var/log
 ```bash
 docker build -t apache2-php-mariadb .
 ```
-
+![Image](https://github.com/user-attachments/assets/927c43d0-dd0a-4eda-88ba-a19641eddb70)
 ---
 
 ### 3. Извлечение конфигураций
@@ -104,7 +104,7 @@ docker rm apache2-php-mariadb
 **Apache:**
 - В `000-default.conf`:
   - Установлен `ServerName localhost`
-  - Добавлен email в `ServerAdmin`
+  - Добавлен email iaroslavrevazov@gmail.com в `ServerAdmin`
   - Добавлен `DirectoryIndex index.php index.html`
 
 - В `apache2.conf`:  
