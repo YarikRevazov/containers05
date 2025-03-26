@@ -186,8 +186,10 @@ CMD ["/usr/bin/supervisord", "-n", "-c", "/etc/supervisor/conf.d/supervisord.con
 
 ```bash
 docker build -t apache2-php-mariadb .
+![Image](https://github.com/user-attachments/assets/3b0ccea8-8e66-47d8-b1c2-41c82bb5fca8)
 docker run -d --name apache2-php-mariadb -p 8000:80 apache2-php-mariadb
 ```
+
 
 📡 Перешёл в браузере по адресу:  
 [http://localhost:8000/wordpress](http://localhost:8000/wordpress)
