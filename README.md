@@ -188,6 +188,7 @@ CMD ["/usr/bin/supervisord", "-n", "-c", "/etc/supervisor/conf.d/supervisord.con
 docker build -t apache2-php-mariadb .
 ![Image](https://github.com/user-attachments/assets/3b0ccea8-8e66-47d8-b1c2-41c82bb5fca8)
 docker run -d --name apache2-php-mariadb -p 8000:80 apache2-php-mariadb
+![Image](https://github.com/user-attachments/assets/5045ae00-3f23-4a4e-ab1c-2145722338bc)
 ```
 
 
