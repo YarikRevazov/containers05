@@ -192,9 +192,9 @@ docker run -d --name apache2-php-mariadb -p 8000:80 apache2-php-mariadb
 ```
 
 
-📡 Перешёл в браузере по адресу:  
+ Перешёл в браузере по адресу:  
 [http://localhost:8000/wordpress](http://localhost:8000/wordpress)
-
+![Image](https://github.com/user-attachments/assets/d217ed13-874d-41a5-a2de-12ebee964ad1)
 ---
 
 ### 8. Создание базы данных
